@@ -6,17 +6,15 @@
 Mysql
 ======================================
 
-Contents:
-
 .. toctree::   
    :caption: Contenido
    :name: masterIndex
    :maxdepth: 2
    
-   install.rst
-   createdb.rst
-   Permission.rst
-   statements.rst
+   content/install.rst
+   content/createdb.rst
+   content/Permission.rst
+   content/statements.rst
 
 Indices and tables
 ==================
